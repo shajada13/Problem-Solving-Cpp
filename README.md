@@ -1,4 +1,4 @@
-#Here are the basic programs of C language .. From biginner to intermediate .. Whice will cover the necessary topics for your acadimic life . . 
+#Here are the basic programs of C++ language .. From biginner to intermediate to advanced.. Whice will cover the necessary topics for your acadimic life . . 
 # 🚀 C++ Problem Solving Roadmap  
 
 This repository contains a structured approach to learning C++ programming from **Beginner** to **Advanced** level. The folder structure is designed to help learners navigate through different topics step by step.
