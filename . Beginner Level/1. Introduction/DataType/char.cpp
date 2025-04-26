@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
     char ch = 'a';  // Declare a character variable 'ch' and assign it the value 'a'
-    cout << ch << endl;  // Prints the value of 'ch' and moves to a new line using endl
+    cout <<"Character value : "<< ch << endl;  // Prints the value of 'ch' and moves to a new line using endl
 
     return 0;
 }

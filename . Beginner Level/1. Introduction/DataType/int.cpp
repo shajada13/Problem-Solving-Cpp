@@ -5,7 +5,7 @@ int main() {
 
     int num = 34;  // Declare an integer variable 'num' and assign it the value 34
 
-    cout << num << endl;  // Prints the value of 'num' and moves to a new line using endl
+    cout << "Number value : " << num << endl;  // Prints the value of 'num' and moves to a new line using endl
 
     return 0;
 }
