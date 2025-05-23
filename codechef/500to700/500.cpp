@@ -1,3 +1,5 @@
+// Greater Average / 500
+
 #include <iostream>
 using namespace std;
 

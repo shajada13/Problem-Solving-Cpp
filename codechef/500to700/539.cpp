@@ -1,3 +1,5 @@
+// CRED coins / 539
+
 #include <bits/stdc++.h>
 using namespace std;
 
