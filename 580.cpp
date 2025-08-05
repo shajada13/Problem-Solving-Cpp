@@ -15,7 +15,7 @@ int main() {
          int array[N] ;
          int count = 0 ;
     
-         for (int j = 0 ; j < N ; j++){
+         for (int j = 0 ; j < N ; j++){         // use nested loop 
              cin >> array[j];
              if (array[j] >= 1000){
                  count ++ ;
