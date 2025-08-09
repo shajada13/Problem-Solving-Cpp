@@ -1,4 +1,4 @@
-// 588 codeforce 
+// 588 codeforce Reverse The Number
 
 #include <bits/stdc++.h>
 using namespace std;
